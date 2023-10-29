@@ -1,0 +1,15 @@
+*{
+    margin: 0 px;
+    padding: 0 px;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.carrusel1{
+       display:flexbox;
+       width: 60%;
+       height: 600% ;
+}

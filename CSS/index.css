@@ -1,0 +1,33 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+  background-color: hsl(0, 1%, 58%);
+}
+
+.encab{
+  height: 90vh;
+  background-size: cover;
+  background-image: url("../IMAGENES/galeria/img1.jpg") ;
+  
+}
+
+h3{
+  font-size: 1.5rem;
+  text-size-adjust: auto;
+  text-align: center;
+  color: floralwhite;
+}
+
+a img{
+  vertical-align: middle;
+  height: 85%;
+   }
+
+.prueba{
+  margin-top: 1px;
+height: 100vh;
+}
+
